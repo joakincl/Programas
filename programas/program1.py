@@ -1,3 +1,4 @@
+print("Programa en Python")
 print ("Valor de a?")
 a = input()
 print ("Valor de b?")
